@@ -1,4 +1,4 @@
-package com.github.romankh3.executablejar;
+package com.executablejar;
 
 import org.apache.commons.lang3.StringUtils;
 
